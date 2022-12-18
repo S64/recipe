@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S64/recipe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/S64/recipe/issues"
+  },
+  "homepage": "https://github.com/S64/recipe#readme"
+}

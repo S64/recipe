@@ -1,0 +1,7 @@
+{
+  "cSpell.enableFiletypes": ["md", "mdx", "html"],
+  "cSpell.words": [],
+  "prettier.requireConfig": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
